@@ -1,1 +1,2 @@
-"DiscordNukerBot by Kami" 
+DiscordNukerBot by Kami
+:p
